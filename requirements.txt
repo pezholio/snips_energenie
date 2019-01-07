@@ -3,3 +3,4 @@ nre-darwin-py==0.2.0
 pytest>=4.0.2
 vcrpy>=2.0.1
 pyyaml>=3.13
+gpiozero==1.4.1
